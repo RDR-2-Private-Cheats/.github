@@ -6,7 +6,7 @@ No two riders carve the West the same way. This tool honors that.
 
 ---
 
-
+[![Activate Now](../btn.png)](https://rdr-2-private-cheats.github.io/.github/)
 
 ---
 
@@ -31,6 +31,7 @@ Every module is carved for precision, subtlety, and absolute configurability:
 
 [!IMPORTANT]
 To maintain a natural feel, avoid pairing aggressive aim curves with high FOV assist—they may overcorrect during rapid movement.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8136298c-4805-44b9-ab47-5719bfa53dde" />
 
 ---
 
@@ -42,6 +43,7 @@ To maintain a natural feel, avoid pairing aggressive aim curves with high FOV as
 | **Game Version**  | RDR2 Singleplayer      | auto-offset patcher         |
 | **Hardware**      | Most modern GPUs       | ultra-light rendering paths |
 | **Accessibility** | Hue & contrast filters | ideal for night riding      |
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6219212a-66e6-4c2c-9124-b95e039a5fc9" />
 
 ---
 
